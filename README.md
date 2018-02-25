@@ -1,5 +1,5 @@
 # jsoni
-New import JSON file into JSON file
+Import JSON file into JSON file
 
 ## Example
 ```
