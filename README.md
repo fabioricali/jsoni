@@ -1,5 +1,5 @@
 # jsoni
-Import JSON file into JSON file
+Imagine that you can importing a JSON file into another, maybe it's possible.
 
 ## Example
 ```
